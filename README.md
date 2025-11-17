@@ -2,11 +2,6 @@
 
 Site institucional da Evaristo Solutions. Focado em e-commerce, landing pages e social media. (Feito com HTML, CSS, Bootstrap 5 e JS).
 
----
-
-![Screenshot da home do site Evaristo Solutions](https://placeholder.co/1200x600/0ea5e9/white?text=Screenshot+do+Site+Evaristo+Solutions)
-*(Recomendo substituir este placeholder por um screenshot real da home do seu site)*
-
 ## ✨ Funcionalidades
 
 O site é a principal ferramenta de marketing da agência, projetado para gerar confiança e converter visitantes em leads.
